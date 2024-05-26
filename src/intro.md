@@ -14,7 +14,7 @@ Tôi hy vọng blog này sẽ trở thành nơi để chúng ta cùng học hỏ
 ### Liên lạc
 
 - Email: leminhsonphysics@gmail.com
-- Facebook: https://www.facebook.com/lmson1996
+- Facebook: [https://www.facebook.com/lmson1996](https://www.facebook.com/lmson1996)
 ---
 
 Chúc bạn một ngày vui vẻ và hy vọng bạn sẽ tìm thấy những thông tin hữu ích và truyền cảm hứng tại blog này!
