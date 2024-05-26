@@ -7,7 +7,7 @@ export default hopeTheme({
 
   author: {
     name: "Yên lặng",
-    url: "https://www.youtube.com/channel/UCX776p2ZJkHxNqUXe7MvIUA",
+    url: "https://www.youtube.com/@yenlanglangyen",
   },
 
   iconAssets: "fontawesome-with-brands",
@@ -21,6 +21,7 @@ export default hopeTheme({
   blog: {
     medias: {
       Youtube: "https://www.youtube.com/channel/UCX776p2ZJkHxNqUXe7MvIUA",
+      Facebook: "https://www.facebook.com/CayCoLaCoCay",
       VuePressThemeHope: [
         "https://theme-hope.vuejs.press",
         "https://theme-hope-assets.vuejs.press/logo.svg",
