@@ -3,27 +3,9 @@ icon: circle-info
 cover: /assets/images/cover3.jpg
 ---
 # Xin chào !
-## Chào Mừng Đến Với Yên Lặng
+### Chào Mừng Đến Với Yên Lặng
 
 Xin chào! Tôi là một lập trình viên, người sáng lập của blog này. Với niềm đam mê về Phật pháp, chăm sóc cây cối, và xây dựng lối sống thân thiện với môi trường, tôi mong muốn chia sẻ những kiến thức và kinh nghiệm của mình đến với tất cả mọi người.
-
-### Nội Dung Blog
-
-- **Phật pháp và Môi Trường:**
-  Khám phá sự liên kết giữa triết lý Phật giáo và bảo vệ môi trường. Những bài viết sẽ giúp bạn hiểu rõ hơn về cách sống hài hòa với thiên nhiên và tôn trọng vạn vật chúng sinh.
-
-- **Chăm Sóc Cây Cối:**
-  Hướng dẫn chi tiết từ cách chọn cây, chăm sóc đến bảo dưỡng cây trong nhà và ngoài trời. Tôi tin rằng mỗi cây xanh được trồng sẽ góp phần làm xanh không gian sống và mang lại nhiều lợi ích sức khỏe.
-
-- **Trang Trí Nội Thất Tiết Kiệm và Thông Minh:**
-  Cung cấp những ý tưởng trang trí nội thất đẹp, tiết kiệm và thân thiện với môi trường. Từ việc sử dụng các vật liệu tái chế đến các mẹo nhỏ giúp tối ưu hóa không gian sống.
-
-### Mục Tiêu của Blog
-
-Blog này được tạo ra với mục tiêu:
-- **Nâng cao nhận thức về bảo vệ môi trường** qua lăng kính của triết lý Phật giáo.
-- **Khuyến khích việc trồng cây** và chăm sóc không gian sống xanh, sạch, đẹp.
-- **Cung cấp giải pháp trang trí nội thất** thông minh, tiết kiệm chi phí nhưng vẫn đảm bảo thẩm mỹ và chức năng.
 
 ### Tham Gia Cộng Đồng
 

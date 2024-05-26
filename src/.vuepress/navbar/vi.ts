@@ -13,6 +13,7 @@ export const viNavbar = navbar([
                 prefix: "environment/",
                 children: [
                     { text: "Đất", icon: "earth", link: "soil" },
+                    { text: "Tự nhiên và con người", icon: "earth", link: "nature-and-human" },
                 ],
             },
         ],

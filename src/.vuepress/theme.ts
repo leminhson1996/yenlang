@@ -47,7 +47,7 @@ export default hopeTheme({
       },
 
       metaLocales: {
-        editLink: "Edit this page on GitHub",
+        // editLink: "Edit this page on GitHub",
       },
     },
     /**
