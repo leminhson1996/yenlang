@@ -15,6 +15,7 @@ export const viSidebar = sidebar({
                     children: [
                         { text: "Đất", icon: "earth", link: "soil" },
                         { text: "Tự nhiên và con người", icon: "earth", link: "nature-and-human" },
+                        { text: "Vạn vật kết nối", icon: "earth", link: "connection-of-everything" },
                     ],
                 },
             ],
