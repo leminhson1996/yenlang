@@ -37,7 +37,7 @@ export default hopeTheme({
       // sidebar
       sidebar: viSidebar,
 
-      footer: "Default footer",
+      footer: "Cảm ơn đời mỗi sớm mai thức dậy, cho tôi một ngày nữa để yêu thương.",
 
       displayFooter: true,
 
@@ -60,7 +60,7 @@ export default hopeTheme({
       // sidebar
       sidebar: enSidebar,
 
-      footer: "Default footer",
+      footer: "Cảm ơn đời mỗi sớm mai thức dậy, cho tôi một ngày nữa để yêu thương.",
 
       displayFooter: true,
 
