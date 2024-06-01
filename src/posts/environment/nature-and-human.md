@@ -1,6 +1,6 @@
 ---
 cover: /assets/images/nature-and-man.jpeg
-icon: earth
+icon: mingcute:earth-line
 date: 2024-05-27
 category:
   - môi trường

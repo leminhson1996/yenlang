@@ -10,7 +10,7 @@ export default hopeTheme({
     url: "https://www.youtube.com/@yenlanglangyen",
   },
 
-  iconAssets: "fontawesome-with-brands",
+  iconAssets: "iconify",
 
   logo: "logo.png",
 
@@ -22,10 +22,10 @@ export default hopeTheme({
     medias: {
       Youtube: "https://www.youtube.com/channel/UCX776p2ZJkHxNqUXe7MvIUA",
       Facebook: "https://www.facebook.com/CayCoLaCoCay",
-      VuePressThemeHope: [
-        "https://theme-hope.vuejs.press",
-        "https://theme-hope-assets.vuejs.press/logo.svg",
-      ],
+      // VuePressThemeHope: [
+      //   "https://theme-hope.vuejs.press",
+      //   "https://theme-hope-assets.vuejs.press/logo.svg",
+      // ],
     },
   },
 

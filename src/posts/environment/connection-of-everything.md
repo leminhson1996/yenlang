@@ -1,6 +1,6 @@
 ---
 cover: /assets/images/connection-of-everything.jpeg
-icon: earth
+icon: mingcute:earth-line
 date: 2024-05-28
 category:
   - môi trường

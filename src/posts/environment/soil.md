@@ -1,6 +1,6 @@
 ---
 cover: /assets/images/soil-in-hand.jpeg
-icon: earth
+icon: mingcute:earth-line
 date: 2024-05-25
 category:
   - môi trường
