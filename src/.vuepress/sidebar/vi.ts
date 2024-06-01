@@ -24,6 +24,7 @@ export const viSidebar = sidebar({
                     prefix: "health/",
                     children: [
                         { text: "Bài học sau cơn bạo bệnh", icon: "solar:health-bold", link: "sick" },
+                        { text: "Cân bằng giữa tiền bạc và sức khoẻ", icon: "solar:health-bold", link: "balance" },
                     ],
                 },
             ],
