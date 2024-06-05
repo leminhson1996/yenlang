@@ -3,7 +3,7 @@ import { enNavbar, viNavbar } from "./navbar/index.js";
 import { enSidebar, viSidebar } from "./sidebar/index.js";
 
 export default hopeTheme({
-  hostname: "https://mister-hope.github.io",
+  hostname: "https://yenlang.org",
 
   author: {
     name: "Yên lặng",
